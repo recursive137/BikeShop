@@ -1,0 +1,2 @@
+c:\users\ibrcic\documents\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
