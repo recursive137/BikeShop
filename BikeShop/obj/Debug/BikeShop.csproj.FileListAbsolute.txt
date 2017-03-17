@@ -1,2 +1,22 @@
 c:\users\ibrcic\documents\visual studio 2015\Projects\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
 C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.csprojResolveAssemblyReference.cache
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\App.g.cs
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.Cache
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Contact.baml
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Menu.g.cs
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Menu.baml
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Discussion.g.cs
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\Discussion.baml
+C:\Users\ibrcic\Documents\GitHub\BikeShop\BikeShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
